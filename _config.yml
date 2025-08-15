@@ -6,28 +6,32 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
+
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Your Name / Site Title"
+title                    : "Shark / Beaks"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : &name "Shark Beaks"
+description              : &description "watery fish eater"
+url                      : https://sharkbeaks.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "sharkbeaks/sharkbeaks.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
+  # A unique marine marvel, the Shark with a Beak combines the fierce prowess of a shark with the distinctive, pointed feature of a beak.
+  # Known for its agile hunting skills and sharp intellect, this aquatic predator thrives in diverse ocean habitats. 
+  # A true testament to nature's creativity, the Shark with a Beak inspires curiosity and awe wherever its presence is felt."
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "S. Beaks"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "A unique marine marvel"
+  location         : "Pacific Ocean"
+  employer         : "Whales"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -39,7 +43,7 @@ author:
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=shark+beak"
   researchgate     : # URL
   scopus           : # URL
 
@@ -47,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "sharkbeaks"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
