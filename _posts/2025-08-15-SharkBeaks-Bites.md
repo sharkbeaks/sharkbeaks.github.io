@@ -1,7 +1,7 @@
 ---
 title: 'Why did the shark blush?'
 date: 2015-08-15
-permalink: /posts/2025/08/2025-08-15-SharkBeaks-Bites.md/
+permalink: /posts/2025/08/SharkBeaks-Bites.md/
 tags:
   - cool posts
   - category1
